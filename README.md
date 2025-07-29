@@ -6,7 +6,7 @@ This project showcases my approach to cleaning and preparing raw datasets for an
 
 <img width="1732" height="390" alt="sql_output" src="https://github.com/user-attachments/assets/6394054d-3d2e-423d-925e-9b8f65c3b369" />
 
-## 📦 Dataset: `world_layoffs.csv` [here](kaggle.com)
+## 📦 Dataset: `world_layoffs.csv`
 
 The dataset includes:
 - Company names
