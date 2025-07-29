@@ -1,7 +1,10 @@
 # Data Cleaning With mySQL
 
 ## Project Overview
-This project showcases my approach to cleaning and preparing raw datasets for analysis. It involves identifying and handling missing values, correcting data types, removing duplicates, dealing with outliers, and standardizing formatting to ensure data quality and consistency. The goal is to transform messy, real-world data into a clean and structured format suitable for further analysis or machine learning
+This project showcases my approach to cleaning and preparing raw datasets for analysis. It involves identifying and handling missing values, correcting data types, removing duplicates, dealing with outliers, and standardizing formatting to ensure data quality and consistency. The goal is to transform messy, real-world data into a clean and structured format suitable for further analysis.
+
+
+<img width="1732" height="390" alt="sql_output" src="https://github.com/user-attachments/assets/6394054d-3d2e-423d-925e-9b8f65c3b369" />
 
 ## 📦 Dataset: `world_layoffs.csv` [here](kaggle.com)
 
